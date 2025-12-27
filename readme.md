@@ -15,10 +15,7 @@ and understanding of C language fundamentals.
 ## 🎯 Purpose
 - Practice C programming fundamentals  
 - Improve problem-solving skills  
-- Build a strong base for backend development  
-- Create a GitHub portfolio for internships  
-
----
+- Build a strong base for backend development
 
 ## 👤 Author
 **Tanish**  
