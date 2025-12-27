@@ -3,10 +3,15 @@ This repository contains beginner-level C programs written for practice.
 The purpose of this repository is to strengthen logic building and problem-solving skills in C programming.
 
 ##Topic Covered 
+
 C-Programming     
+
   C-Numbers 
+
     Even_odd
+
     Prime_number
+
 
 
 ## How to Use
