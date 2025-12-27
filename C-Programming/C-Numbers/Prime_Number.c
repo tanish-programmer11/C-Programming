@@ -1,27 +1,23 @@
-#include <stdio.h>
+#include <stdio.h>      // For printf and scanf
+#include <string.h>     // For strlen function
 
-int main() {
-    int n, i, flag = 0;
+int main () {
+    char str[100];      // String to store input
+    int len, i;         // Variables for length and loop
 
-    printf("Enter a number: ");
-    scanf("%d", &n);
+    printf("enter number");  
+    scanf("%s", str);   // Read number as string
 
-    if (n <= 1) {
-        printf("Not Prime");
-        return 0;
+    len = strlen(str);  // Calculate string length
+
+    for (i = 0; i < len / 2; i++) {      // Loop till middle of string
+        if (str[i] != str[len - 1 - i]) { // Compare characters
+            printf("not palindrome");    // Not palindrome
+            return 0;                    // Exit program
+        }
     }
 
-    for (i = 2; i <= n / 2; i++) {
-        if (n % i == 0) {
-            flag = 1;
-            break;
-        }
-    } 
+    printf("Palindrome"); // If all characters match
 
-    if (flag == 0)
-        printf("Prime Number");
-    else
-        printf("Not Prime");
-
-    return 0;
+    return 0;            // End program
 }
