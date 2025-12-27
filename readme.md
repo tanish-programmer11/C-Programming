@@ -8,7 +8,7 @@ and understanding of C language fundamentals.
 ## 📂 Repository Structure
  **C-Programming**
 
-  ~C-Numbers 
+  ~C-Numbers~
 
    Even_odd.c
 
