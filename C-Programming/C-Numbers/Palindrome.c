@@ -12,7 +12,7 @@ int main (){
   return 0;
 }
 }
- printf ("NOT palindrome" );
+ printf ("Palindrome" );
  
  return 0;
  }
