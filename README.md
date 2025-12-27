@@ -5,8 +5,7 @@ The purpose of this repository is to strengthen logic building and problem-solvi
 ##Topic Covered 
 
 C-Programming     
-
-  C-Numbers 
+   C-Numbers 
 
     Even_odd
 
