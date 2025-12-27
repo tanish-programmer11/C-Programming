@@ -6,7 +6,7 @@ and understanding of C language fundamentals.
 
 
 ## 📂 Repository Structure
- C-Programming 
+ **C-Programming**
 
   ~C-Numbers 
 
