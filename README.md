@@ -6,8 +6,8 @@ The purpose of this repository is to strengthen logic building and problem-solvi
 
 C-Programming     
    ~C-Numbers     
-        Even_odd       
-        Prime_number
+      Even_odd       
+      Prime_number
 
 
 
