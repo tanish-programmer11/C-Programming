@@ -12,6 +12,7 @@ and understanding of C language fundamentals.
        Even_odd.c
        Prime.c
        Palindrome.c
+       Factorial 
 
 ## 🎯 Purpose
 - Practice C programming fundamentals  
