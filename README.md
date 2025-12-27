@@ -5,11 +5,9 @@ The purpose of this repository is to strengthen logic building and problem-solvi
 ##Topic Covered 
 
 C-Programming     
-   C-Numbers 
-
-    Even_odd
-
-    Prime_number
+   ~C-Numbers     
+     Even_odd       
+     Prime_number
 
 
 
