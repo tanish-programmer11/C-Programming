@@ -8,13 +8,13 @@ and understanding of C language fundamentals.
 ## 📂 Repository Structure
  **C-Programming**
 
-  _C-Numbers_
+    C-Numbers
 
-   Even_odd.c
+      _Even_odd.c_
 
-   Prime.c
+      _Prime.c_
 
-   Palindrome.c
+      _Palindrome.c_
 
 ## 🎯 Purpose
 - Practice C programming fundamentals  
