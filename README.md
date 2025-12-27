@@ -2,9 +2,29 @@
 This repository contains beginner-level C programs written for practice.  
 The purpose of this repository is to strengthen logic building and problem-solving skills in C programming.
 
-## Topics Covered
-1. Hello world 
-2.Even/Odd
+#£Topic Covered 
+C-Programming/
+│
+├── C-Numbers/
+│   ├── even_odd.c
+│   ├── prime.c
+│   ├── palindrome.c
+│   └── factorial.c
+│
+├── C-Patterns/
+│   ├── pattern1.c
+│   └── pattern2.c
+│
+├── C-Functions/
+│   ├── sum_function.c
+│   └── prime_function.c
+│
+├── C-Arrays/
+│   ├── array_sum.c
+│   └── array_reverse.c
+│
+└── README.md
+
 
 ## How to Use
 1. Clone the repository  
