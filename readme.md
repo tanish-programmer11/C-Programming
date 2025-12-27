@@ -9,12 +9,9 @@ and understanding of C language fundamentals.
  **C-Programming**
 
     C-Numbers
-
-      _Even_odd.c_
-
-      _Prime.c_
-
-      _Palindrome.c_
+       _Even_odd.c_
+       _Prime.c_
+       _Palindrome.c_
 
 ## 🎯 Purpose
 - Practice C programming fundamentals  
